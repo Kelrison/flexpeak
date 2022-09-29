@@ -32,7 +32,7 @@ console.log (idade)
 
 }
 
-var player = new jogador('Kelrison','volante','20/12/1989','Brasileiro',1.69,70);
+var player = new jogador('Leite','volante','20/12/1989','Brasileiro',1.69,70);
 
 player.setNome("coelho");
 console.log(player.getCalculaIdade());
