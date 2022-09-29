@@ -34,4 +34,5 @@ console.log (idade)
 
 var player = new jogador('Leite','volante','20/12/1989','Brasileiro',1.69,70);
 
-console.log (jogador)
+console.log (player)
+//Alteração do local
