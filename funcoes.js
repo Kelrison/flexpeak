@@ -1,3 +1,9 @@
+function MostrarAlerta{
+  alert ("Deu certo");
+}
+
+
+
 class jogador {
 nome;
 posicao;

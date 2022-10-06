@@ -1,3 +1,27 @@
 H1{ color:red}
 H2{ color:black}
 H3{ color:blue}
+
+div{ width: 300px;
+background-color: lightgrey;
+text-align: justify;
+align-self: auto;
+}
+
+li{font-size: 25px;
+padding: auto;}
+
+table{
+    text-align: center;
+    width: 100%;
+    border: 1px;
+}
+
+td{
+    border: 1px solid black;
+    
+}
+
+tr{
+    border: 1px solid black
+    }
