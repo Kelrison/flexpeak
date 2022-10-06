@@ -25,3 +25,12 @@ td{
 tr{
     border: 1px solid black
     }
+
+img{
+    width: 100px;
+}
+
+ul .menu-direito{
+    background-color: black;
+
+}
